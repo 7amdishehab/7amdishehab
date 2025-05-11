@@ -3,6 +3,7 @@
 - I’m currently learning **HTML, CSS, JavaScript, Bootstrap, Tailwind, and React**.  
 - I’m looking to collaborate on **frontend projects and open-source contributions**.  
 - How to reach me:  
+  - **Portfolio:** [https://my-portfolio-six-mu-32.vercel.app/ 
   - **Email:** [7amdishehab@gmail.com]  
   - **LinkedIn:** [https://www.linkedin.com/in/7amdishehab](https://www.linkedin.com/in/7amdishehab)  
   - **Facebook:** [https://www.facebook.com/7amdishehab](https://www.facebook.com/7amdishehab)  
