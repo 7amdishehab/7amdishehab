@@ -5,16 +5,15 @@
 
 ### 💻 About Me
 - 🎓 Computer Science student at Kafr El-Sheikh University.
-- 🖥️ Frontend Developer with 1+ year of experience.
-- 🌱 Currently learning **React.js** and planning to dive into **Node.js** soon.
-- 🧠 Interested in UI/UX, Web Performance Optimization, and Full Stack Development.
-- 📫 Reach me at: **hamdishehab123@gmail.com**
+- 🖥️ Frontend Developer **"React.js"** with 1+ year of experience.
+- 🧠 Interested in UI/UX, Web Performance Optimization.
+- 📫 Reach me at: **7amdishehab@gmail.com**
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,sass,vite" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
@@ -24,25 +23,16 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamdiShehab&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiShehab&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamdi-shehab" target="_blank">
+  <a href="https://www.linkedin.com/in/7amdishehab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hamdishehab123@gmail.com">
+  <a href="mailto:7amdishehab@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/HamdiShehab">
+  <a href="https://github.com/7amdishehab">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
