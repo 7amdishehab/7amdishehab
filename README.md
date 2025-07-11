@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Hamdi Shehab</h1>
-<h3 align="center">A passionate Frontend Developer from Egypt 🇪🇬</h3>
+<h1 align="left">Hi there 👋, I'm Hamdi Shehab</h1>
+<h3 align="left">A passionate Frontend Developer from Egypt 🇪🇬</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,sass,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,sass,vite" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,photoshop,illustrator" />
   <br/>
