@@ -13,12 +13,12 @@
 
 ### 🚀 Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,sass,vite" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,photoshop,illustrator" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql,sqlserver" />
 </p>
 
 ---
