@@ -1,44 +1,105 @@
-<h1 align="left">Hi there 👋, I'm Hamdi Shehab</h1>
-<h3 align="left">A passionate Frontend Developer from Egypt 🇪🇬</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hamdi+Shehab;Front-End+Developer+%F0%9F%87%AA%F0%9F%87%AC;React.js+%26+Next.js+Enthusiast;Building+real+products%2C+not+demos." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://hamdishehab.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-hamdishehab.dev-4F9CF9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/7amdishehab" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:7amdishehab@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/7amdishehab">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 💻 About Me
-- 🎓 Computer Science student at Kafr El-Sheikh University.
-- 🖥️ Frontend Developer **"React.js"** with 1+ year of experience.
-- 🧠 Interested in UI/UX, Web Performance Optimization.
-- 📫 Reach me at: **7amdishehab@gmail.com**
+## 🧑‍💻 About Me
+
+Front-End Developer with **1+ year of hands-on experience** building real, production-grade web applications — not just side projects.
+
+- 🎓 CS student @ **Kafr El-Sheikh University** (graduating Jun 2026)
+- ⚡ Specialized in **React.js** and **Next.js** with TypeScript
+- 🏗️ Currently building **Smart Moon ERP** — a full-scale enterprise system for SMBs
+- 🌍 Based in Kafr El-Sheikh, Egypt — open to remote opportunities
+- 📬 Reach me at **7amdishehab@gmail.com**
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,sass,vite" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,photoshop,illustrator" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql,sqlserver" />
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### State, Data & Forms
+```
+Zustand · TanStack Query · React Hook Form · Zod · Context API · Axios
+```
+
+### UI & Animation
+```
+Radix UI · Framer Motion · Recharts · DnD Kit
+```
+
+### Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🏗️ Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/7amdishehab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:7amdishehab@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/7amdishehab">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| 🟣 **Smart Moon ERP** | Full-scale ERP for SMBs — inventory, POS, accounting, HR, analytics | Next.js 15, React 19, TS, Zustand, TanStack Query, Recharts, Zod | [▶ Live](https://smart-moon-erp.vercel.app) |
+| 🔵 **3OTOR** | Luxury fragrance e-commerce — cart, wishlist, orders, admin dashboard | Next.js, TypeScript, Tailwind CSS | [▶ Live](https://3otor.shop) |
+| 🟢 **Edraak** | Educational management — attendance, grading, drag-and-drop scheduling | Next.js, DnD Kit, Recharts, Zod | WIP |
+| 🟡 **MovieHub** | Movie & series discovery with search, filtering, and dark mode | React.js, Context API, REST API, Tailwind | [▶ Live](https://movie-hub-theta-blue.vercel.app) |
 
 ---
 
-### 💡 Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=7amdishehab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amdishehab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+
+</div>
+
+---
+
+## 🎓 Training
+
+| Program | Hours | Focus |
+|---|---|---|
+| ITI Tanta | 120h | HTML, CSS, JS, Bootstrap, React |
+| ITI Beni Suef | 90h | HTML, CSS, TypeScript, React |
+| Rowad Misr Al-Raqamia | — | Front-End & Professional Skills |
+| IEEE Kafr El-Sheikh | — | Web Foundations |
+
+---
+
+<div align="center">
+
+<sub>
+  <b>"Ship it, then improve it."</b><br/>
+  — Building products that solve real problems, one commit at a time.
+</sub>
+
+</div>
