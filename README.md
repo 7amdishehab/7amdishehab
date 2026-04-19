@@ -52,7 +52,7 @@ Zustand · TanStack Query · React Hook Form · Zod · Context API · Axios
 
 ### UI & Animation
 ```
-Radix UI · Framer Motion · Recharts · DnD Kit
+Radix UI · Framer Motion · Recharts · LottieFiles
 ```
 
 ### Tooling
@@ -66,10 +66,11 @@ Radix UI · Framer Motion · Recharts · DnD Kit
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| 🟣 **Smart Moon ERP** | Full-scale ERP for SMBs — inventory, POS, accounting, HR, analytics | Next.js 15, React 19, TS, Zustand, TanStack Query, Recharts, Zod | [▶ Live](https://smart-moon-erp.vercel.app) |
-| 🔵 **3OTOR** | Luxury fragrance e-commerce — cart, wishlist, orders, admin dashboard | Next.js, TypeScript, Tailwind CSS | [▶ Live](https://3otor.shop) |
-| 🟢 **Edraak** | Educational management — attendance, grading, drag-and-drop scheduling | Next.js, DnD Kit, Recharts, Zod | WIP |
-| 🟡 **MovieHub** | Movie & series discovery with search, filtering, and dark mode | React.js, Context API, REST API, Tailwind | [▶ Live](https://movie-hub-theta-blue.vercel.app) |
+| 🟢 **DevLance** | Professional agency website for a software company o ering web, mobile, and design services |  Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, DotLottie, Swiper, Resend, react-intersection-observer, react-icons | [▶ Live](https://www.devlance.software/) |
+| 🟣 **Smart Moon ERP** | Full-scale ERP for SMBs — inventory, POS, accounting, HR, analytics |  Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Recharts, jsPDF, xlsx, Fuse.js, Sentry, Framer Motion | [▶ Live](https://smart-moon-erp.vercel.app) |
+| 🔵 **3OTOR** | Luxury fragrance e-commerce — cart, wishlist, orders, admin dashboard | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Zustand, Recharts, Axios, Framer Motion, react icons | [▶ Live](https://3otor.shop) |
+| 🟢 **Edraak** | Educational management — attendance, grading, drag-and-drop scheduling | Next.js 16, React 19, TypeScript, Tailwind CSS 4, DnD Kit, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Recharts, Axios, date-fns, qrcode.react | [▶ Live](https://edraak-seven.vercel.app/) |
+| 🟡 **MovieHub** | Movie & series discovery with search, filtering, and dark mode |  React.js 19, Vite, React Router DOM v7, Context API, Tailwind CSS 4, Axios, react-icons | [▶ Live](https://movie-hub-theta-blue.vercel.app) |
 
 ---
 
