@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://hamdishehab.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-237270?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/7amdishehab" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-Front-End Developer with **1+ year of hands-on experience** building real, production-grade web applications — not just side projects.
+Front-End Developer with **1+ year of experience** shipping production-grade web applications used by real users.
 
 - 🎓 CS student @ **Kafr El-Sheikh University** (graduating Jun 2026)
 - ⚡ Specialized in **React.js** and **Next.js** with TypeScript
@@ -52,7 +52,7 @@ Zustand · TanStack Query · React Hook Form · Zod · Context API · Axios
 
 ### UI & Animation
 ```
-Radix UI · Framer Motion · Recharts · LottieFiles
+Radix UI · Framer Motion · Recharts · LottieFiles · Swiper · DnD Kit
 ```
 
 ### Tooling
@@ -66,11 +66,11 @@ Radix UI · Framer Motion · Recharts · LottieFiles
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| 🟢 **DevLance** | Professional agency website for a software company o ering web, mobile, and design services |  Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, DotLottie, Swiper, Resend, react-intersection-observer, react-icons | [▶ Live](https://www.devlance.software/) |
-| 🟣 **Smart Moon ERP** | Full-scale ERP for SMBs — inventory, POS, accounting, HR, analytics |  Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Recharts, jsPDF, xlsx, Fuse.js, Sentry, Framer Motion | [▶ Live](https://smart-moon-erp.vercel.app) |
-| 🔵 **3OTOR** | Luxury fragrance e-commerce — cart, wishlist, orders, admin dashboard | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Zustand, Recharts, Axios, Framer Motion, react icons | [▶ Live](https://3otor.shop) |
+| 🟢 **DevLance** | Professional agency website for a software company offering web, mobile, and design services | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, DotLottie, Swiper, Resend, react-intersection-observer, react-icons | [▶ Live](https://www.devlance.software/) |
+| 🟣 **Smart Moon ERP** | Full-scale ERP for SMBs — inventory, POS, accounting, HR, analytics | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Recharts, jsPDF, xlsx, Fuse.js, Sentry, Framer Motion | [▶ Live](https://smart-moon-erp.vercel.app) |
+| 🔵 **3OTOR** | Luxury fragrance e-commerce — cart, wishlist, orders, admin dashboard | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Zustand, Recharts, Axios, Framer Motion, react-icons | [▶ Live](https://3otor.shop) |
 | 🟢 **Edraak** | Educational management — attendance, grading, drag-and-drop scheduling | Next.js 16, React 19, TypeScript, Tailwind CSS 4, DnD Kit, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Recharts, Axios, date-fns, qrcode.react | [▶ Live](https://edraak-seven.vercel.app/) |
-| 🟡 **MovieHub** | Movie & series discovery with search, filtering, and dark mode |  React.js 19, Vite, React Router DOM v7, Context API, Tailwind CSS 4, Axios, react-icons | [▶ Live](https://movie-hub-theta-blue.vercel.app) |
+| 🟡 **MovieHub** | Movie & series discovery with search, filtering, and dark mode | React.js 19, Vite, React Router DOM v7, Context API, Tailwind CSS 4, Axios, react-icons | [▶ Live](https://movie-hub-theta-blue.vercel.app) |
 
 ---
 
@@ -89,10 +89,9 @@ Radix UI · Framer Motion · Recharts · LottieFiles
 
 | Program | Hours | Focus |
 |---|---|---|
-| ITI Tanta | 120h | HTML, CSS, JS, Bootstrap, React |
-| ITI Beni Suef | 90h | HTML, CSS, TypeScript, React |
-| Rowad Misr Al-Raqamia | — | Front-End & Professional Skills |
-| IEEE Kafr El-Sheikh | — | Web Foundations |
+| ITI Tanta | 120h | HTML, CSS, JS, Bootstrap, Tailwind CSS, React |
+| ITI Beni Suef | 90h | HTML, CSS, TypeScript, Bootstrap, React |
+| IEEE Kafr El-Sheikh | — | Web Foundations (HTML, CSS, JS) |
 
 ---
 
