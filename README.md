@@ -189,9 +189,7 @@ const hamdi = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=7amdishehab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&ring_color=00D9FF" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amdishehab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&langs_count=6" height="170" />
+ 
 
   <br/><br/>
 
