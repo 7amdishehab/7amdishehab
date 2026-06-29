@@ -1,105 +1,151 @@
+# Hi there 👋, I'm Hamdi Shehab
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hamdi+Shehab;Front-End+Developer+%F0%9F%87%AA%F0%9F%87%AC;React.js+%26+Next.js+Enthusiast;Building+real+products%2C+not+demos." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Production+Web+Applications;Passionate+about+Performance+%26+UI%2FUX" />
 
 <br/>
 
-<a href="https://hamdishehab.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+![](https://komarev.com/ghpvc/?username=7amdishehab\&style=for-the-badge\&color=0e75b6)
+
+<a href="https://hamdishehab.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/7amdishehab" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://linkedin.com/in/7amdishehab">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:7amdishehab@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<!-- <a href="https://github.com/7amdishehab">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a> -->
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 💫 About Me
 
-Front-End Developer with **1+ year of experience** shipping production-grade web applications used by real users.
+I'm **Hamdi Shehab**, a **Front-End Developer** specialized in **React.js**, **Next.js**, and **TypeScript**.
 
-- 🎓 CS student @ **Kafr El-Sheikh University** (graduating Jun 2026)
-- ⚡ Specialized in **React.js** and **Next.js** with TypeScript
-- 🏗️ Currently building **Smart Moon ERP** — a full-scale enterprise system for SMBs
-- 🌍 Based in Kafr El-Sheikh, Egypt — open to remote opportunities
-- 📬 Reach me at **7amdishehab@gmail.com**
+I have **1+ year of production experience** building scalable web applications including **ERP Systems**, **SaaS Platforms**, **E-Commerce**, **Educational Systems**, and **AI-powered products**.
 
----
+I enjoy transforming complex business requirements into fast, maintainable, and user-friendly applications.
 
-## 🚀 Tech Stack
-
-### Core
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-### State, Data & Forms
-```
-Zustand · TanStack Query · React Hook Form · Zod · Context API · Axios
-```
-
-### UI & Animation
-```
-Radix UI · Framer Motion · Recharts · LottieFiles · Swiper · DnD Kit
-```
-
-### Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
-</p>
+* 🎓 B.Sc. Computer Science & Information Technology (2026)
+* 💼 1+ Year Production Experience
+* 🚀 7+ Production Web Applications
+* 🌍 Egypt (Open to Remote & On-site)
+* 📧 [7amdishehab@gmail.com](mailto:7amdishehab@gmail.com)
 
 ---
 
-## 🏗️ Featured Projects
+# 🚀 Tech Stack
 
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| 🟢 **DevLance** | Professional agency website for a software company offering web, mobile, and design services | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, DotLottie, Swiper, Resend, react-intersection-observer, react-icons | [▶ Live](https://www.devlance.software/) |
-| 🟣 **Smart Moon ERP** | Full-scale ERP for SMBs — inventory, POS, accounting, HR, analytics | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Recharts, jsPDF, xlsx, Fuse.js, Sentry, Framer Motion | [▶ Live](https://smart-moon-erp.vercel.app) |
-| 🔵 **3OTOR** | Luxury fragrance e-commerce — cart, wishlist, orders, admin dashboard | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Zustand, Recharts, Axios, Framer Motion, react-icons | [▶ Live](https://3otor.shop) |
-| 🟢 **Edraak** | Educational management — attendance, grading, drag-and-drop scheduling | Next.js 16, React 19, TypeScript, Tailwind CSS 4, DnD Kit, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Recharts, Axios, date-fns, qrcode.react | [▶ Live](https://edraak-seven.vercel.app/) |
-| 🟡 **MovieHub** | Movie & series discovery with search, filtering, and dark mode | React.js 19, Vite, React Router DOM v7, Context API, Tailwind CSS 4, Axios, react-icons | [▶ Live](https://movie-hub-theta-blue.vercel.app) |
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
+
+### State Management & Data
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+
+### Forms
+
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+
+### UI & Tools
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Featured Projects
+
+| Project           | Description                          |
+| ----------------- | ------------------------------------ |
+| 🚀 **3OTOR**      | Luxury Fragrance E-Commerce Platform |
+| 💼 **Devlance**   | Production Software Agency Website   |
+| 📚 **Edraak**     | Educational Management System        |
+| 💰 **EgyFinance** | AI Powered Financial Dashboard       |
+| 🤖 **TestGen**    | AI Test Case Generator SaaS          |
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=7amdishehab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amdishehab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=7amdishehab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amdishehab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7amdishehab&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎓 Training
+# 🎯 Current Focus
 
-| Program | Hours | Focus |
-|---|---|---|
-| ITI Tanta | 120h | HTML, CSS, JS, Bootstrap, Tailwind CSS, React |
-| ITI Beni Suef | 90h | HTML, CSS, TypeScript, Bootstrap, React |
-| IEEE Kafr El-Sheikh | — | Web Foundations (HTML, CSS, JS) |
+* ⚡ Next.js 16
+* ⚡ React 19
+* ⚡ TypeScript
+* ⚡ Performance Optimization
+* ⚡ SEO
+* ⚡ AI Integration
+* ⚡ Scalable Front-End Architecture
+
+---
+
+# 📈 Highlights
+
+✅ 1+ Year Experience
+
+✅ 7+ Production Applications
+
+✅ ERP Systems
+
+✅ SaaS Products
+
+✅ AI Applications
+
+✅ E-Commerce Platforms
+
+✅ Educational Systems
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://hamdishehab.dev">🌍 Portfolio</a> • <a href="https://linkedin.com/in/7amdishehab">LinkedIn</a> • <a href="mailto:7amdishehab@gmail.com">Email</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>
-  <b>"Ship it, then improve it."</b><br/>
-  — Building products that solve real problems, one commit at a time.
-</sub>
+### ⭐ Building scalable products with clean code, performance, and great user experience.
 
 </div>
