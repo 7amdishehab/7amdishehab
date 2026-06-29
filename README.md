@@ -44,7 +44,7 @@ const hamdi = {
   location:   "Kafr El-Sheikh, Egypt 🇪🇬  →  open to remote",
   education:  "B.Sc. CS @ Kafr El-Sheikh University (GPA 3.4 / 4.0, Jun 2026)",
   experience: "1+ year · 7+ production apps shipped",
-  superpower: ["Bilingual RTL/LTR", "10k-row tables → 180ms", "Design → Production"],
+  superpower: ["Bilingual RTL/LTR", "Design → Production"],
   contact:    "7amdishehab@gmail.com",
 };
 ```
@@ -171,7 +171,7 @@ const hamdi = {
     <td width="50%" valign="top">
       <h3>🟣 <a href="https://smart-moon-erp.vercel.app">Smart Moon ERP</a></h3>
       <p><b>Enterprise Resource Planning System</b></p>
-      <p>Full-scale ERP for SMBs — inventory, POS, accounting, HR & analytics. Optimized 10k-row tables from 4s → 180ms via virtualization & memoization.</p>
+      <p>Full-scale ERP for SMBs — inventory, POS, accounting, HR & analytics.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
