@@ -23,7 +23,6 @@ Front-End Developer with **1+ year of freelance experience** delivering **7+ pro
 - 🎓 CS student @ **Kafr El-Sheikh University** (graduating Jun 2026) — GPA 3.4/4.0
 - ⚡ Specialized in **React.js** and **Next.js** with TypeScript
 - 🌐 Built bilingual **RTL/LTR** interfaces with full Arabic support
-- 🚀 Optimized 10,000-row data tables from **4s → 180ms** via virtualization
 - 🌍 Based in Egypt — open to remote opportunities
 - 📬 **7amdishehab@gmail.com**
 
