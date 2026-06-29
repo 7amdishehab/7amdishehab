@@ -14,7 +14,7 @@
 
 <!-- CONTACT BADGES -->
 <a href="https://hamdishehab.dev" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-hamdishehab.dev-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&labelColor=0D1117" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/7amdishehab" target="_blank">
