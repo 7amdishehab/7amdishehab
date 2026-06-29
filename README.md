@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2137,100:00D9FF&height=200&section=header&text=Hamdi%20Shehab&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20%26%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2137,100:00D9FF&height=200&section=header&text=Hamdi%20Shehab&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20%26%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=16&animation=fadeIn" width="100%" /> -->
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=7%2B+production+web+apps+shipped+%F0%9F%9A%80;React.js+%26+Next.js+%7C+TypeScript+%7C+TailwindCSS;Bilingual+RTL+interfaces+%7C+Performance+nerd;Available+for+remote+opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
